@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.P2P = require('./lib');
+var gamblecore = require('gamblecore-lib');
+gamblecore.P2P = require('./lib');
 
-module.exports = litecore.P2P;
+module.exports = gamblecore.P2P;
